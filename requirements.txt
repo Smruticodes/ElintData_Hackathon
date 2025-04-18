@@ -1,0 +1,16 @@
+flask-cors==5.0.0
+Flask==3.0.3 
+flask-cors==5.0.0
+imapclient==2.3.1 
+gdown==5.2.0 
+nltk==3.9.1 
+streamlit==1.39.0 
+pyngrok==4.1.1 
+python-docx==1.1.2
+PyMuPDF==1.24.10 
+fasttext==0.9.3 
+scikit-learn==1.5.2 
+crewai==0.76.2 
+groq==0.11.0 
+requests==2.32.3 
+pandas==2.2.3
